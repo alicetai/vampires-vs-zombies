@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8629f9e2159f994418f52d72263ca1dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nightmare 5
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f88c7c4096b6944d9f3652945ec6d67, type: 3}
+  - {fileID: 12800000, guid: 38917673f6e71574d800f9c29e4eebe7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
